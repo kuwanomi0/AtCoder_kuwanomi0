@@ -1,3 +1,4 @@
+# PracticeA - Welcome to AtCoder
 # http://atcoder.jp/contests/abs/tasks/practice_1
 # encode : utf-8
 a = int(input())
