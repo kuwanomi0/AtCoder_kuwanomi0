@@ -1,3 +1,4 @@
+# practice contest
 # A - Welcome to AtCoder
 # https://atcoder.jp/contests/practice/tasks/practice_1
 # encode : utf-8

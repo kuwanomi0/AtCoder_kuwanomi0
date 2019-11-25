@@ -1,3 +1,4 @@
+# AtCoder Beginner Selection
 # PracticeA - Welcome to AtCoder
 # http://atcoder.jp/contests/abs/tasks/practice_1
 # encode : utf-8
