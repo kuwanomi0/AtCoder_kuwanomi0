@@ -1,6 +1,6 @@
 # AtCoder Beginners Selection
 # ABC087B - Coins
-# https://atcoder.jp/contsts/abs/tasks/abc087_b
+# https://atcoder.jp/contests/abs/tasks/abc087_b
 # encode : utf-8
 A = int(input())
 B = int(input())

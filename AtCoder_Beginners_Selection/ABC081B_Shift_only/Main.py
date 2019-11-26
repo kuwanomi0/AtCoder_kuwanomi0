@@ -1,6 +1,6 @@
 # AtCoder Beginners Selection
 # ABC081B - Shift only
-# https://atcoder.jp/contsts/abs/tasks/abc081_b
+# https://atcoder.jp/contests/abs/tasks/abc081_b
 # encode : utf-8
 count = 0
 find_odd = 0

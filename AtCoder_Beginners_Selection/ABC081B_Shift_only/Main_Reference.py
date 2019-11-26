@@ -1,6 +1,6 @@
 # AtCoder Beginners Selection
 # ABC081B - Shift only
-# https://atcoder.jp/contsts/abs/tasks/abc081_b
+# https://atcoder.jp/contests/abs/tasks/abc081_b
 # Reference : https://qiita.com/edad811/items/f72acb09f06e5fb35e4e
 # encode : utf-8
 N = input()
